@@ -117,7 +117,35 @@ www.douyu.com##[class="layout-Player-rank"]
 csdn.net##[class="passport-login-tip-container false"]
 !
 csdn.net##[]
-!
-csdn.net##[]
-!
-csdn.net##[]
+
+
+!起点
+!--------------------!
+!起点中文网
+!右侧\手机版下载
+www.qidian.com##[class="page-bottom-item"]
+!右侧\桌面版下载
+www.qidian.com##[class="page-bottom-item item-listen"]
+!中间\原地tp,游戏广告,写作软件官网
+www.qidian.com##[class="focus-img cf"]
+!顶部\页游入口
+www.qidian.com##[class="game web"]
+
+!起点个人中心
+!顶部\游戏入口
+my.qidian.com##[class="header-nav-a"]
+!上侧\游戏广告
+my.qidian.com##[id="elGameTab"]
+!右侧\手机版
+my.qidian.com##[class="page-bottom-fixed"]
+
+
+
+
+!笔趣趣
+!上下插入\app推荐
+m.biququ.la##[id="device"]
+!底部\章节报错
+m.biququ.la##[class=" border-main"]
+!底部\推荐
+m.biququ.la##[class="read_tj"]
