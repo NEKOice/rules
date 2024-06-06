@@ -1,0 +1,123 @@
+[Adblock Plus 2.0]
+! Title:        cat's rules for AdBlock Plus
+! Description:  自用过滤规则
+! Author:       NEKOice
+! License:      Creative Commons BY-NC-SA
+! Version:      2024
+! Expires:      7h
+!-------------------------------------------------------------------------------------!
+
+
+
+!B站
+!---------------------!
+!主页
+!主页顶部\插件提示
+www.bilibili.com##[class="adblock-tips"]
+!主页视频\插件提示
+www.bilibili.com##[class="bili-video-card is-rcmd"]
+!右下\下载客户端
+www.bilibili.com##[class="desktop-download-tip"]
+
+!动态页
+!右侧\社区中心与话题
+t.bilibili.com##[class="right"]
+!头像飘窗\已关注与发消息
+t.bilibili.com##[class="bili-user-profile-view__info__footer"]
+!头像飘窗\已关注
+t.bilibili.com##[class="bili-user-profile-view__info__button follow checked"]
+!头像飘窗\发消息
+t.bilibili.com##[class="bili-user-profile-view__info__button chat"]
+
+!视频页
+!up飘窗\关注与发消息
+www.bilibili.com##[class="btn-box"]
+!评论用户飘窗\关注与发消息
+www.bilibili.com##[class="card-btn-warp"]
+!评论顶部\站内活动广告
+www.bilibili.com##[class="activity-m-v1 act-now"]
+!右侧底部\站内活动广告
+www.bilibili.com##[class="ad-report ad-floor-exp"]
+!右侧底部\直博推荐(失效)
+www.bilibili.com##[class="pop-live-small-mode part-undefined"]
+!右侧底部\直博推荐
+www.bilibili.com##[class="pop-live-small-mode part-1"]
+
+!直播页
+!上侧\人气榜
+live.bilibili.com##[class="popular-and-hot-rank hot-normal-area"]
+!上侧\礼物星球
+live.bilibili.com##[class="gift-planet-entry"]
+!上侧\充值活动
+live.bilibili.com##[class="activity-gather-entry activity-entry s-activity-entry"]
+!右上\舰队指挥官
+live.bilibili.com##[class="pilot"]
+!弹幕\入场提示
+live.bilibili.com##[class="chat-item  convention-msg border-box"]
+!左上\小橙车
+live.bilibili.com##[class="z-shop-popover-vm"]
+!左下\充值活动
+live.bilibili.com##[class="left-part-ctnr vertical-middle dp-table section p-relative"]
+!下侧\广告
+live.bilibili.com##[class="flip-view p-relative over-hidden w-100"]
+!下侧\动态
+live.bilibili.com##[class="room-feed trends"]
+!底部\关于
+live.bilibili.com##[class="link-footer-ctnr z-link-footer-ctnr"]
+
+
+
+!百度
+!---------------------!
+!百度搜索
+!图标
+baidu.com##[class="s-p-top"]
+!热搜
+baidu.com##[id="content_right"]
+!热搜
+baidu.com##[class="cr-offset "]
+
+
+!百度地图
+!右上\广告
+map.baidu.com##[class="message-panel-open"]
+!右上\广告开关
+map.baidu.com##[class="has-message"]
+!底部\备案关于
+map.baidu.com##[class=" BMap_cpyCtrl BMap_noprint anchorBL"]
+
+!百度网盘
+!顶部\游戏跳转
+pan.baidu.com##[class="gameEntry wp-s-header__right-item nd-game-entry"]
+
+
+
+!高德地图
+!---------------------!
+!右上\下载客户端
+www.amap.com##[class="app_download_box"]
+!左下\logo
+www.amap.com##[class="amap-logo"]
+!底部\备案关于
+www.amap.com##[class="amap-copyright"]
+
+!斗鱼
+!---------------------!
+!下方\热议等
+www.douyu.com##[class="layout-Bottom"]
+!右侧\浮窗
+www.douyu.com##[class="ActSuperFans ActBase is-show"]
+!右侧\打赏排行
+www.douyu.com##[class="layout-Player-rank"]
+
+
+!CSDN
+!---------------------!
+!右下\登录提示
+csdn.net##[class="passport-login-tip-container false"]
+!
+csdn.net##[]
+!
+csdn.net##[]
+!
+csdn.net##[]
