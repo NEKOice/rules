@@ -119,6 +119,12 @@ csdn.net##[class="passport-login-tip-container false"]
 csdn.net##[]
 
 
+!小红书
+!--------------------!
+!评论表情
+www.xiaohongshu.com##[class="note-content-emoji"]
+
+
 !起点
 !--------------------!
 !起点中文网
