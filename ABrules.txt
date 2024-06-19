@@ -123,6 +123,19 @@ csdn.net##[]
 !--------------------!
 !评论表情
 www.xiaohongshu.com##[class="note-content-emoji"]
+!喜欢点赞
+www.xiaohongshu.com##[class="like"]
+!头像
+www.xiaohongshu.com##[class="avatar"]
+
+!抖音
+!--------------------!
+!头像
+www.douyin.com##[class="VPtAXFCJ comment-item-avatar"]
+!分享
+www.douyin.com##[class="kwrAXogN Fk7yt3IZ"]
+!点赞
+www.douyin.com##[class="TRWauD80 zEsK61S1"]
 
 
 !起点
