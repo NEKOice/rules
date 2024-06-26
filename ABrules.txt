@@ -131,7 +131,7 @@ www.xiaohongshu.com##[class="avatar"]
 !抖音
 !--------------------!
 !头像
-www.douyin.com##[class="VPtAXFCJ comment-item-avatar"]
+!www.douyin.com##[class="VPtAXFCJ comment-item-avatar"]
 !分享
 www.douyin.com##[class="kwrAXogN Fk7yt3IZ"]
 !点赞
