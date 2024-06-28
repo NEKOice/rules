@@ -130,12 +130,14 @@ www.xiaohongshu.com##[class="avatar"]
 
 !抖音
 !--------------------!
-!头像
-!www.douyin.com##[class="VPtAXFCJ comment-item-avatar"]
+!头像图片(链接仍在)
+www.douyin.com##[class="RlLOO79h"]
 !分享
 www.douyin.com##[class="kwrAXogN Fk7yt3IZ"]
 !点赞
 www.douyin.com##[class="TRWauD80 zEsK61S1"]
+!评论表情
+www.douyin.com##[class="nxcdnPYU"]
 
 
 !起点
