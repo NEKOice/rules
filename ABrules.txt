@@ -44,6 +44,8 @@ www.bilibili.com##[class="pop-live-small-mode part-undefined"]
 www.bilibili.com##[class="pop-live-small-mode part-1"]
 
 !直播页
+!画面马赛克
+live.bilibili.com##[id="web-player-module-area-mask-panel"]
 !上侧\人气榜
 live.bilibili.com##[class="popular-and-hot-rank hot-normal-area"]
 !上侧\礼物星球
@@ -64,6 +66,7 @@ live.bilibili.com##[class="flip-view p-relative over-hidden w-100"]
 live.bilibili.com##[class="room-feed trends"]
 !底部\关于
 live.bilibili.com##[class="link-footer-ctnr z-link-footer-ctnr"]
+
 
 
 
