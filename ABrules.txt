@@ -44,8 +44,8 @@ www.bilibili.com##[class="pop-live-small-mode part-undefined"]
 www.bilibili.com##[class="pop-live-small-mode part-1"]
 
 !直播页
-!画面马赛克
-live.bilibili.com##[id="web-player-module-area-mask-panel"]
+!画面马赛克(屏蔽会提示违规操作)
+!live.bilibili.com##[id="web-player-module-area-mask-panel"]
 !上侧\人气榜
 live.bilibili.com##[class="popular-and-hot-rank hot-normal-area"]
 !上侧\礼物星球
