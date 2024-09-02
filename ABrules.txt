@@ -36,6 +36,8 @@ www.bilibili.com##[class="btn-box"]
 www.bilibili.com##[class="card-btn-warp"]
 !评论顶部\站内活动广告
 www.bilibili.com##[class="activity-m-v1 act-now"]
+!右侧顶部\站内推广
+www.bilibili.com##[cclass="video-page-special-card-small"]
 !右侧底部\站内活动广告
 www.bilibili.com##[class="ad-report ad-floor-exp"]
 !右侧底部\直博推荐(失效)
