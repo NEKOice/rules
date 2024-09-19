@@ -53,7 +53,7 @@ live.bilibili.com##[class="popular-and-hot-rank hot-normal-area"]
 !上侧\礼物星球
 live.bilibili.com##[class="gift-planet-entry"]
 !上侧\充值活动
-live.bilibili.com##[class="activity-gather-entry activity-entry s-activity-entry"]
+!live.bilibili.com##[class="activity-gather-entry activity-entry s-activity-entry"]
 !右上\舰队指挥官
 live.bilibili.com##[class="pilot"]
 !弹幕\入场提示
@@ -61,7 +61,7 @@ live.bilibili.com##[class="chat-item  convention-msg border-box"]
 !左上\小橙车
 live.bilibili.com##[class="z-shop-popover-vm"]
 !左下\充值活动
-live.bilibili.com##[class="left-part-ctnr vertical-middle dp-table section p-relative"]
+!live.bilibili.com##[class="left-part-ctnr vertical-middle dp-table section p-relative"]
 !下侧\广告
 live.bilibili.com##[class="flip-view p-relative over-hidden w-100"]
 !下侧\动态
