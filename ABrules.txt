@@ -28,6 +28,8 @@ t.bilibili.com##[class="bili-user-profile-view__info__footer"]
 t.bilibili.com##[class="bili-user-profile-view__info__button follow checked"]
 !头像飘窗\发消息
 t.bilibili.com##[class="bili-user-profile-view__info__button chat"]
+!右侧浮窗\回到旧版
+t.bilibili.com##div.bili-dyn-sidebar__btn:nth-of-type(1)
 
 !视频页
 !up飘窗\关注与发消息
