@@ -158,6 +158,11 @@ www.qidian.com##[class="page-bottom-item item-listen"]
 www.qidian.com##[class="focus-img cf"]
 !顶部\页游入口
 www.qidian.com##[class="game web"]
+!中推荐栏\页游入口
+www.qidian.com##[class="lbf-button game-link"]
+!右资讯栏\页游入口
+www.qidian.com##.red
+
 
 !起点个人中心
 !顶部\游戏入口
@@ -167,6 +172,11 @@ my.qidian.com##[id="elGameTab"]
 !右侧\手机版
 my.qidian.com##[class="page-bottom-fixed"]
 
+
+!微博
+!--------------------!
+!顶部\微游戏入口
+weibo.com##[class="woo-box-flex woo-box-alignCenter Links_box_17T3k"]
 
 
 
