@@ -39,7 +39,7 @@ www.bilibili.com##[class="card-btn-warp"]
 !评论顶部\站内活动广告
 www.bilibili.com##[class="activity-m-v1 act-now"]
 !右侧顶部\站内推广
-www.bilibili.com##[cclass="video-page-special-card-small"]
+www.bilibili.com##[class="video-page-special-card-small"]
 !右侧底部\站内活动广告
 www.bilibili.com##[class="ad-report ad-floor-exp"]
 !右侧底部\直博推荐(失效)
@@ -72,8 +72,6 @@ live.bilibili.com##[class="room-feed trends"]
 live.bilibili.com##[class="link-footer-ctnr z-link-footer-ctnr"]
 
 
-
-
 !百度
 !---------------------!
 !百度搜索
@@ -83,7 +81,6 @@ baidu.com##[class="s-p-top"]
 baidu.com##[id="content_right"]
 !热搜
 baidu.com##[class="cr-offset "]
-
 
 !百度地图
 !右上\广告
@@ -98,7 +95,6 @@ map.baidu.com##[class=" BMap_cpyCtrl BMap_noprint anchorBL"]
 pan.baidu.com##[class="gameEntry wp-s-header__right-item nd-game-entry"]
 
 
-
 !高德地图
 !---------------------!
 !右上\下载客户端
@@ -107,6 +103,7 @@ www.amap.com##[class="app_download_box"]
 www.amap.com##[class="amap-logo"]
 !底部\备案关于
 www.amap.com##[class="amap-copyright"]
+
 
 !斗鱼
 !---------------------!
@@ -122,8 +119,6 @@ www.douyu.com##[class="layout-Player-rank"]
 !---------------------!
 !右下\登录提示
 csdn.net##[class="passport-login-tip-container false"]
-!
-csdn.net##[]
 
 
 !小红书
@@ -134,6 +129,7 @@ www.xiaohongshu.com##[class="note-content-emoji"]
 www.xiaohongshu.com##[class="like"]
 !头像
 www.xiaohongshu.com##[class="avatar"]
+
 
 !抖音
 !--------------------!
@@ -161,7 +157,7 @@ www.qidian.com##[class="game web"]
 !中推荐栏\页游入口
 www.qidian.com##[class="lbf-button game-link"]
 !右资讯栏\页游入口
-www.qidian.com##.red
+www.qidian.com##[class="red"]
 
 
 !起点个人中心
@@ -177,7 +173,6 @@ my.qidian.com##[class="page-bottom-fixed"]
 !--------------------!
 !顶部\微游戏入口
 weibo.com##[class="woo-box-flex woo-box-alignCenter Links_box_17T3k"]
-
 
 
 !笔趣趣
