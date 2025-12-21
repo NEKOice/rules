@@ -70,6 +70,8 @@ live.bilibili.com##[class="flip-view p-relative over-hidden w-100"]
 live.bilibili.com##[class="room-feed trends"]
 !底部\关于
 live.bilibili.com##[class="link-footer-ctnr z-link-footer-ctnr"]
+!底部
+live.bilibili.com##[class="link-footer"]
 
 
 !百度
