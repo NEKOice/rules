@@ -176,6 +176,9 @@ my.qidian.com##[class="page-bottom-fixed"]
 !顶部\微游戏入口
 weibo.com##[class="woo-box-flex woo-box-alignCenter Links_box_17T3k"]
 
+!pixiv
+!售卖
+www.pixiv.net##[section:nth-child(5)]
 
 !笔趣趣
 !上下插入\app推荐
