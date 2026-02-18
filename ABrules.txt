@@ -178,7 +178,7 @@ weibo.com##[class="woo-box-flex woo-box-alignCenter Links_box_17T3k"]
 
 !pixiv
 !售卖
-www.pixiv.net##[section:nth-child(5)]
+www.pixiv.net##section.eKOomR.jKXiZT.bNBzcc.sc-5140e926-0.sc-55920ee2-3.sc-55920ee2-1:nth-of-type(4)
 
 !笔趣趣
 !上下插入\app推荐
