@@ -65,7 +65,7 @@ live.bilibili.com##[class="z-shop-popover-vm"]
 !左下\充值活动
 live.bilibili.com##[class="left-part-ctnr vertical-middle dp-table section p-relative"]
 !下侧\礼物
-live.bilibili.com##[class="gift-control-section p-relative border-box z-gift-control-section bg-bright-filter gift-control-panel f-clear b-box"]
+!live.bilibili.com##[class="gift-control-section p-relative border-box z-gift-control-section bg-bright-filter gift-control-panel f-clear b-box"]
 !下侧\广告
 live.bilibili.com##[class="flip-view p-relative over-hidden w-100"]
 !下侧\动态
